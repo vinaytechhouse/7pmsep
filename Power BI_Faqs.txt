@@ -1,0 +1,37 @@
+Q: How do merge multi location files?
+Ans:
+one file : US   one file: china one file : India
+
+We should retrieve one by one, go to Power Query, Use Append Operation
+Note: Last class process is applicable only for the files in the same folder with same structure
+
+Q: Why Power BI required if SSRS is there?
+Ans:
+	SSRS:
+		a) On-Premises storage of reports and management 
+		b) Report management limited options 
+		c) Mobile view / Tab view is difficult
+		d) Sharing through an App is not possible
+		e) Limited reporting concepts and visuals [third party visual support is not there]
+		f) Limited sources it can connect
+		g) Paginated reporting possible
+		
+	Power BI:
+
+		a) On-Premises and Cloud storage of reports and management 
+		b) Report management many options [Powerful options and current market demand]
+		c) Mobile view / Tab view is easier
+		d) Sharing through an App is not possible [recommended method]
+		e) Many Reporting concepts and visuals [third party visual support is there]
+		f) More sources [hundreds of sources] it can connect
+		g) Paginated reporting possible in latest versions, Non paginated reporting also 			available
+
+Q: What is pagination?
+
+	Splitting the number of records into multiple pages is called as pagination.
+	Ex:
+	You have 100 records, you want to split into 10 pages and in each page 10 records.
+
+
+
+

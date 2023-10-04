@@ -1,9 +1,12 @@
+Recently Asked Questions:
+
 Q: How do merge multi location files?
 Ans:
 one file : US   one file: china one file : India
 
 We should retrieve one by one, go to Power Query, Use Append Operation
-Note: Last class process is applicable only for the files in the same folder with same structure
+
+Note: Last class process is applicable only for the files in the same folder with same structure [if possible names]
 
 Q: Why Power BI required if SSRS is there?
 Ans:
